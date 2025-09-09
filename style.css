@@ -1,0 +1,60 @@
+    
+              body{
+                background-color: aqua;
+                background-image: url(wallpaper2.jpg);
+                background-repeat: no-repeat;
+                font-family: 'Courier New', Courier, monospace;
+               border-radius: 5px;
+                background-position: center;
+                font-size: large;
+                 }
+               h1{
+                  color: blueviolet;
+                 text-align: center;
+                 font-size: larger;
+                 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                 font-style: oblique;
+                 font-weight: lighter;
+                 text-transform: uppercase;
+                 }
+               p{
+                 text-align: center;
+                 font-size: larger;
+                 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                 font-style: oblique;
+                 font-weight: lighter;
+                 text-transform: uppercase;  
+               }
+               p{
+                  text-align: center;
+                 font-size: larger;
+                 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                 font-style: oblique;
+                 font-weight: lighter;
+                 text-transform: uppercase;
+                 }
+                img{
+                    border-radius: 10%;
+                  }
+                .profiledata {
+                    color: brown;
+                    background-color: aquamarine;
+                }
+                #profiledata{
+                    background-color: aqua;
+                    color: blueviolet;
+                }
+                marquee{
+                    color: blue;
+                }
+                div{
+                   text-align: center;
+                   background-color: aquamarine;
+                  content: inherit;
+                  width: 500px;
+                  padding: 17px;
+                  border: 4px solid brown;
+                  margin: 20px;
+                }
+
+                
